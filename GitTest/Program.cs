@@ -13,6 +13,8 @@ namespace GitTest
             Console.WriteLine("First line added");
             Console.WriteLine("Second line added");
             Console.WriteLine("Third line added");
+            //2016.08.26 after lunch
+            Console.WriteLine("Forth line added");
         }
     }
 }
