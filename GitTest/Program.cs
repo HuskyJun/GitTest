@@ -11,6 +11,7 @@ namespace GitTest
         static void Main(string[] args)
         {
             Console.WriteLine("First line added");
+            Console.WriteLine("Second line added");
         }
     }
 }
