@@ -17,6 +17,7 @@ namespace GitTest
             Console.WriteLine("Forth line added");
             Console.WriteLine("Fifth line added");
             Console.WriteLine("I'm also working here some code");
+            Console.WriteLine("I update a feature in a while");
         }
     }
 }
