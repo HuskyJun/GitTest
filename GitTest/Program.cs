@@ -12,6 +12,7 @@ namespace GitTest
         {
             Console.WriteLine("First line added");
             Console.WriteLine("Second line added");
+            Console.WriteLine("Third line added");
         }
     }
 }
