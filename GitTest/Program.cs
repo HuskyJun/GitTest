@@ -24,6 +24,7 @@ namespace GitTest
             Console.WriteLine("I update a feature in a while");
             Console.WriteLine("Update my profile");
             Console.WriteLine("Another user changed code");
+            Console.WriteLine("by hanuijun@nate.com");
         }
     }
 }
