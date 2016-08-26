@@ -18,8 +18,9 @@ namespace GitTest
             Console.WriteLine("Fifth line added");
             Console.WriteLine("I'm also working here some code");
             Console.WriteLine("Bug Fixed");
-            Console.WriteLine("Working Foward");
+            Console.WriteLine("Working Forward");
             Console.WriteLine("Hot Fixed1");
+            Console.WriteLine("Working Forward2");
         }
     }
 }
