@@ -22,6 +22,7 @@ namespace GitTest
             Console.WriteLine("Hot Fixed1");
             Console.WriteLine("Working Forward2");
             Console.WriteLine("I update a feature in a while");
+            Console.WriteLine("Update my profile");
         }
     }
 }
