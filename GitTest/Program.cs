@@ -23,6 +23,7 @@ namespace GitTest
             Console.WriteLine("Working Forward2");
             Console.WriteLine("I update a feature in a while");
             Console.WriteLine("Update my profile");
+            Console.WriteLine("Another user changed code");
         }
     }
 }
