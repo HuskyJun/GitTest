@@ -19,6 +19,7 @@ namespace GitTest
             Console.WriteLine("I'm also working here some code");
             Console.WriteLine("Bug Fixed");
             Console.WriteLine("Working Foward");
+            Console.WriteLine("Hot Fixed1");
         }
     }
 }
